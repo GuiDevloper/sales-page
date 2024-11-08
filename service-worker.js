@@ -5,7 +5,7 @@ self.context = {
     "development": false,
     "production": true,
     "mode": "ssg",
-    "key": "df7493c1be581cf1235ac748357fec5b85dd8bf6",
+    "key": "62a601919ce81b7e9e385cf0751738bacc737d40",
     "name": ""
   },
   "project": {
@@ -35,7 +35,7 @@ self.context = {
   },
   "settings": {},
   "worker": {
-    "enabled": false,
+    "enabled": true,
     "fetching": false,
     "preload": [],
     "staleWhileRevalidate": [],
